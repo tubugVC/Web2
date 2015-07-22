@@ -1,0 +1,6 @@
+C:\Users\vincent\Documents\GitHub\Web2\Web2\bin\Web2.dll.config
+C:\Users\vincent\Documents\GitHub\Web2\Web2\bin\Web2.dll
+C:\Users\vincent\Documents\GitHub\Web2\Web2\bin\Web2.pdb
+C:\Users\vincent\Documents\GitHub\Web2\Web2\obj\Debug\Web2.csprojResolveAssemblyReference.cache
+C:\Users\vincent\Documents\GitHub\Web2\Web2\obj\Debug\Web2.dll
+C:\Users\vincent\Documents\GitHub\Web2\Web2\obj\Debug\Web2.pdb
